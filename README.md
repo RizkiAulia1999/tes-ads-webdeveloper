@@ -1,3 +1,22 @@
+![promo](https://github.com/RizkiAulia1999/tes-ads-webdeveloper/assets/55042970/93c887fa-bd12-4187-8fda-81627c2144ae)
+![about](https://github.com/RizkiAulia1999/tes-ads-webdeveloper/assets/55042970/4f85f7c7-9d48-4969-b141-d3b632d12f0a)
+![contact](https://github.com/RizkiAulia1999/tes-ads-webdeveloper/assets/55042970/75d261a1-14d4-42ff-bd1f-00797adaee9e)
+## Test Case Web Developer
+# HomePage
+![home](https://github.com/RizkiAulia1999/tes-ads-webdeveloper/assets/55042970/c7e0448e-23a5-474e-a5a6-01fa72fa16d1)
+
+# ProdukPage
+![produk](https://github.com/RizkiAulia1999/tes-ads-webdeveloper/assets/55042970/5a97d8e7-42c3-4a5a-aa64-6f14e00b5576)
+
+# PromoPage
+![promo](https://github.com/RizkiAulia1999/tes-ads-webdeveloper/assets/55042970/0ba0017c-b1f0-4e41-8163-b2abdd846094)
+
+# About Us Page
+![about](https://github.com/RizkiAulia1999/tes-ads-webdeveloper/assets/55042970/ba39c47c-c86a-42c4-b441-dcc587d08591)
+
+# Contact Page
+![contact](https://github.com/RizkiAulia1999/tes-ads-webdeveloper/assets/55042970/8fe30699-41c3-4eab-b7a6-27c68c328f5f)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -62,3 +81,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+

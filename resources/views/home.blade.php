@@ -33,7 +33,7 @@
                 <img src="{{url('/img/Logoptkian.png')}}" alt="" />
             </div>
             <div class="col-md-4 pt-4">
-                
+
             </div>
             <div class="col">
                 <img src="{{url('/img/logojumat.png')}}" alt="" />
@@ -336,5 +336,34 @@
     <br>
     <hr class="hr">
 </section>
-
 @endsection
+
+
+@section('footer')
+    @parent
+    <!-- Secion Footer 2 -->
+<section class="container-fluid">
+    <div class="section-footer pt-4">
+        <div class="row">
+            <div class="col-md-6">
+                <img src="{{url('/img/Logo.svg')}}" alt="" srcset="">
+                <h6 class="title">Alamat</h6>
+                <p class="alamat ">
+                    Jl. Kutisari IX No.24, Kutisari,
+                    Kec. Tenggilis Mejoyo, Kota SBY, Jawa Timur 60291
+                </p>
+            </div>
+            <div class="col-md-5">
+                <div class="row">
+                    <div class="col">
+                        <h6 class="text-code">Download Our App</h6>
+                        <img src="{{url('/img/barcode.png')}}" class="barcode" alt="" srcset="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+@endsection
+
+

@@ -1,19 +1,19 @@
 
 ## Test Case Web Developer
 # HomePage
-![home](https://github.com/RizkiAulia1999/tes-ads-webdeveloper/assets/55042970/c7e0448e-23a5-474e-a5a6-01fa72fa16d1)
+![home](https://github.com/RizkiAulia1999/tes-ads-webdeveloper/assets/55042970/495c68d7-119f-41cf-ba83-eb4a696f80f0)
 
 # ProdukPage
-![produk](https://github.com/RizkiAulia1999/tes-ads-webdeveloper/assets/55042970/bed7b06e-5d76-4221-a04b-d2d14c039399)
+![produk](https://github.com/RizkiAulia1999/tes-ads-webdeveloper/assets/55042970/b2e24d3e-5607-4077-b96e-4a9da518333a)
 
 # PromoPage
-![promo](https://github.com/RizkiAulia1999/tes-ads-webdeveloper/assets/55042970/0ba0017c-b1f0-4e41-8163-b2abdd846094)
+![promo](https://github.com/RizkiAulia1999/tes-ads-webdeveloper/assets/55042970/eed61617-447e-4254-a795-ba685934f192)
 
 # About Us Page
-![about](https://github.com/RizkiAulia1999/tes-ads-webdeveloper/assets/55042970/ba39c47c-c86a-42c4-b441-dcc587d08591)
+![about](https://github.com/RizkiAulia1999/tes-ads-webdeveloper/assets/55042970/d222908b-e3cd-4479-a94c-7dae2d032522)
 
 # Contact Page
-![contact](https://github.com/RizkiAulia1999/tes-ads-webdeveloper/assets/55042970/8fe30699-41c3-4eab-b7a6-27c68c328f5f)
+![contact](https://github.com/RizkiAulia1999/tes-ads-webdeveloper/assets/55042970/132da545-4666-4375-86f0-7947b6461999)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 

@@ -41,7 +41,7 @@
                  </div>
                  <div class="col">
                      <button class="section-button2">
-                         Promo Readt to Eat
+                         Promo Read to Eat
                      </button>
                  </div>
                  <div class="col">

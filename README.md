@@ -1,9 +1,10 @@
+
 ## Test Case Web Developer
 # HomePage
 ![home](https://github.com/RizkiAulia1999/tes-ads-webdeveloper/assets/55042970/c7e0448e-23a5-474e-a5a6-01fa72fa16d1)
 
 # ProdukPage
-![produk](https://github.com/RizkiAulia1999/tes-ads-webdeveloper/assets/55042970/5a97d8e7-42c3-4a5a-aa64-6f14e00b5576)
+![produk](https://github.com/RizkiAulia1999/tes-ads-webdeveloper/assets/55042970/bed7b06e-5d76-4221-a04b-d2d14c039399)
 
 # PromoPage
 ![promo](https://github.com/RizkiAulia1999/tes-ads-webdeveloper/assets/55042970/0ba0017c-b1f0-4e41-8163-b2abdd846094)
